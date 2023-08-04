@@ -1,0 +1,5 @@
+flight_name,from,to,time,mon,tue,wed,thu,fri,sat,sun
+A1,Mumbai,Dubai,9pm to 12:10am,mo,tu,we,th,fr,sa,su
+A2,New York,London,"3pm to 4pm, next day",mo,0,we,0,fr,0,su
+A3,Dubai,Mumbai,1pm to 4:10pm,0,tu,0,th,0,sa,0
+A4,Berlin,New York,7am to 3:55pm,mo,0,0,th,fr,0,0
